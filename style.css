@@ -221,32 +221,18 @@ margin-top: -10%;
   }
   
   .espero{
-      font-size: 22px;
+      font-size: 27px;
       text-align: center;
-      color: #565656;
+      color: #000000;
       margin: 20%;
-      font-family: 'Rochester', cursive;
+      font-family: "IM Fell English SC", serif
   }
-  .hojas{
-    width: 20%;
-    margin-left: 70%;
-    transform: rotate(30%);
-margin-top: -10%;
+  .mahi{
+    width: 50%;
+    margin-left: 26%;
+margin-top: -18%;
   }
-  .hojas2{
-    width: 20%;
-    margin-top: -42%;
-    margin-left: 5%;
-    transform: rotate(80deg);
-  }
-  
-  .hojas3{
-    width: 42%;
-    margin-left: 32%;
-
-    
-    
-  }
+ 
   .flor{
     width: 58%;
     margin-top: -49%;
