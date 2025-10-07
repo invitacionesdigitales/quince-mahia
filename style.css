@@ -193,8 +193,8 @@
     }
   
   .carousel-inner img{
-width: 80%;
-margin-left: 10%;
+width: 75%;
+margin-left: 13%;
 margin-top: -10%;
   }
   
@@ -253,9 +253,15 @@ margin-top: -10%;
     margin-left: 23%;
 
   }
+  .lineados{
+    width: 58%;
+    margin-top:-14%;
+    margin-left: 23%;
+
+  }
   .whatsap{
-    width: 32%;
-    margin-left: 35%;
+    width: 29%;
+    margin-left: 37%;
   }
   
   }
