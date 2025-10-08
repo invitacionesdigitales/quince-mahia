@@ -15,7 +15,7 @@
         icon: 'success',
         html:
           'INGRESÁ' +
-          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3102.083894982998!2d-68.1897867!3d-38.9677523!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x960bcc89218fc1b9%3A0x601d810acb495654!2sSALON%20UPCN%20PLOTTIER!5e0!3m2!1ses!2sar!4v1727304523735!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.7120983875157!2d-58.5355315!3d-34.6619731!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc88a73ea76c5%3A0xdf6843d77c452860!2sAv.%20General%20Enrique%20Mosconi%20796%2C%20B1751%20Lomas%20del%20Mirador%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1759929915664!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
           'Podes ampliar el mapa',
           
           
